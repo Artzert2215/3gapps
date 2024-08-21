@@ -1,0 +1,4 @@
+#this list contains the folder names of apps that can be safely uninstalled
+#the user can then reinstall these via the play store
+#Lines beginning with # will be ignored, it will read until the first space on each line
+Velvet #google search app
